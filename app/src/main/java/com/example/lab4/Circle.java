@@ -1,10 +1,9 @@
 public class Circle extends Shape{
-
-	public Circle(){
-
+	public Cirle(){
+		super();
 	}
 
-	public Circle(int x, int y){
+	public Circle(int x,int y){
 		super(x,y);
 	}
 }
